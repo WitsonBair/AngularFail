@@ -1,0 +1,84 @@
+{
+  "notifications": [
+    {
+      "shortDescription": "Get Up",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 0
+    },
+    {
+      "shortDescription": "Run",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 1
+    },
+    {
+      "shortDescription": "Eat",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 2
+    },
+    {
+      "shortDescription": "Sit",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 3
+    },
+    {
+      "shortDescription": "Stand",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 4
+    },
+    {
+      "shortDescription": "Fly",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 5
+    },
+    {
+      "shortDescription": "Shoot",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 6
+    },
+    {
+      "shortDescription": "Jump",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 7
+    },
+    {
+      "shortDescription": "Watch",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 8
+    },
+    {
+      "shortDescription": "Do",
+      "fullDescription": "You have a meeting today",
+      "createdAt": "2024-02-16T00:25:43.511Z",
+      "completedAt": "2024-02-16T00:25:43.511Z",
+      "status": "new",
+      "id": 9
+    }
+  ]
+}
